@@ -1,0 +1,656 @@
+TGradientExample
+v7
+r0
+t328124417.217046
+cCheck dependencies
+cProcessInfoPlistFile /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/Info.plist GradientExample-Info.plist
+cCompileXIB /iPhoneExamples/MyExamples/GradientExample/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/GradientExample.app/bus.png bus.png
+cProcessPCH /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch.gch GradientExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/main.o /iPhoneExamples/MyExamples/GradientExample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientExampleAppDelegate.o /iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientTypesTableViewController.o /iPhoneExamples/MyExamples/GradientExample/Classes/GradientTypesTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/LinearGradientViewController.o /iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/LinearGradientView.o /iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RadialGradientViewController.o /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RadialGradientView.o /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RadialGradientFullViewController.o /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientFullViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GrayScaleViewController.o /iPhoneExamples/MyExamples/GradientExample/Classes/GrayScaleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/GradientExample normal i386
+cGenerateDSYMFile /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app.dSYM /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/GradientExample
+cTouch /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleAppDelegate.h
+c000000004DD83A2000000000000001F2
+t1306016288
+s498
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleAppDelegate.m
+c000000004DD83A0E0000000000000B77
+t1306016270
+s2935
+i"GradientExampleAppDelegate.h"
+i"GradientTypesTableViewController.h"
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleViewController.h
+c000000004DD82E65000000000000010D
+t1306013285
+s269
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleViewController.m
+c000000004DD82E6500000000000005E8
+t1306013285
+s1512
+i"GradientExampleViewController.h"
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/GradientTypesTableViewController.h
+c000000004DD82EDE0000000000000118
+t1306013406
+s280
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/GradientTypesTableViewController.m
+c000000004DDE90790000000000000FF1
+t1306431609
+s4081
+i"GradientTypesTableViewController.h"
+i"LinearGradientViewController.h"
+i"RadialGradientViewController.h"
+i"RadialGradientFullViewController.h"
+i"GrayScaleViewController.h"
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/GrayScaleViewController.h
+c000000004DDAAF5D0000000000000101
+t1306177373
+s257
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/GrayScaleViewController.m
+c000000004DDE12F60000000000000AF7
+t1306399478
+s2807
+i"GrayScaleViewController.h"
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientView.h
+c000000004DD8EFAE000000000000015E
+t1306062766
+s350
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientView.m
+c000000004DDD68F90000000000000D20
+t1306355961
+s3360
+i"LinearGradientView.h"
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientViewController.h
+c000000004DD83174000000000000010B
+t1306014068
+s267
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientViewController.m
+c000000004DDADEE70000000000000682
+t1306189543
+s1666
+i"LinearGradientViewController.h"
+i"LinearGradientView.h"
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientFullViewController.h
+c000000004DD909230000000000000113
+t1306069283
+s275
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientFullViewController.m
+c000000004DD90AEE00000000000004D9
+t1306069742
+s1241
+i"RadialGradientFullViewController.h"
+i"RadialGradientView.h"
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientView.h
+c000000004DD8FFD10000000000000171
+t1306066897
+s369
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientView.m
+c000000004DDAAF060000000000000700
+t1306177286
+s1792
+i"RadialGradientView.h"
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientViewController.h
+c000000004DD907990000000000000124
+t1306068889
+s292
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientViewController.m
+c000000004DD908A30000000000000874
+t1306069155
+s2164
+i"RadialGradientViewController.h"
+i"RadialGradientView.h"
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/RoundedRectView.h
+c000000004DD859CD000000000000015B
+t1306024397
+s347
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/GradientExample/Classes/RoundedRectView.m
+c000000004DD8E21B0000000000000BF8
+t1306059291
+s3064
+i"RoundedRectView.h"
+
+N/iPhoneExamples/MyExamples/GradientExample/GradientExampleViewController.xib
+c000000004DD82E650000000000001A65
+t1306013285
+s6757
+
+N/iPhoneExamples/MyExamples/GradientExample/GradientExample_Prefix.pch
+c000000004DD82E6500000000000000C7
+t1306013285
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/iPhoneExamples/MyExamples/GradientExample/MainWindow.xib
+c000000004DD830660000000000004C51
+t1306013798
+s19537
+
+N/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app
+t1306431612
+s238
+
+N/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app.dSYM
+t1306431612
+s102
+
+N/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/GradientExample
+t1306431611
+s44028
+
+N/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/GradientExampleViewController.nib
+t1306025018
+s795
+
+N/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/Info.plist
+t1306276068
+s629
+
+N/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/MainWindow.nib
+t1306276073
+s992
+
+N/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/PkgInfo
+t1306276068
+s8
+
+N/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/bus.png
+t1306276068
+s14158
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientExample.LinkFileList
+c000000004DDC30E400000000000005AB
+t1306276068
+s1451
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientExampleAppDelegate.o
+t1306276077
+s54568
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientExampleViewController.o
+t1306013596
+s37676
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientTypesTableViewController.o
+t1306431610
+s49436
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GrayScaleViewController.o
+t1306431611
+s45732
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/LinearGradientView.o
+t1306399333
+s45816
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/LinearGradientViewController.o
+t1306276077
+s42936
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RadialGradientFullViewController.o
+t1306276078
+s41572
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RadialGradientView.o
+t1306276078
+s41232
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RadialGradientViewController.o
+t1306276078
+s44540
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RoundedRectView.o
+t1306059292
+s45632
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/main.o
+t1306276077
+s6312
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/GradientExampleAppDelegate.plist
+t1306276078
+s276
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/GradientTypesTableViewController.plist
+t1306276078
+s276
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/GrayScaleViewController.plist
+t1306276078
+s276
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/LinearGradientView.plist
+t1306276078
+s276
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/LinearGradientViewController.plist
+t1306276078
+s276
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/RadialGradientFullViewController.plist
+t1306276078
+s276
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/RadialGradientView.plist
+t1306276078
+s276
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/RadialGradientViewController.plist
+t1306276078
+s276
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/RoundedRectView.plist
+t1306025020
+s276
+
+N/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/main.plist
+t1306276078
+s276
+
+N/iPhoneExamples/MyExamples/GradientExample/bus.png
+c000000004DD7BEF3000000000000374E
+t1305984755
+s14158
+
+N/iPhoneExamples/MyExamples/GradientExample/main.m
+c000000004DD82E650000000000000178
+t1306013285
+s376
+i<UIKit/UIKit.h>
+
+N/var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch.gch
+t1306276077
+s15453392
+
+N/var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-glbjrtxxtzcrdggfrvhrtskrende/GradientExample_Prefix.pch.pth
+t1306025004
+s2784040
+
+NGradientExample-Info.plist
+c000000004DD82E65000000000000038D
+t1306013285
+s909
+
+CAnalyze /iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleAppDelegate.m
+s327968878.309852
+e327968878.403416
+r1
+xAnalyze
+x/iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleAppDelegate.m
+lSLF07#2@87"Analyze /iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleAppDelegate.m327968878#327968878#0(0"0(0#0#79"/iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleAppDelegate.m8616968640#2241"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-glbjrtxxtzcrdggfrvhrtskrende/GradientExample_Prefix.pch --analyze /iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleAppDelegate.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/GradientExampleAppDelegate.plist0#
+
+CAnalyze /iPhoneExamples/MyExamples/GradientExample/Classes/GradientTypesTableViewController.m
+s327968878.373966
+e327968878.483140
+r1
+xAnalyze
+x/iPhoneExamples/MyExamples/GradientExample/Classes/GradientTypesTableViewController.m
+lSLF07#2@93"Analyze /iPhoneExamples/MyExamples/GradientExample/Classes/GradientTypesTableViewController.m327968878#327968878#0(0"0(0#0#85"/iPhoneExamples/MyExamples/GradientExample/Classes/GradientTypesTableViewController.m8618075712#2253"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-glbjrtxxtzcrdggfrvhrtskrende/GradientExample_Prefix.pch --analyze /iPhoneExamples/MyExamples/GradientExample/Classes/GradientTypesTableViewController.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/GradientTypesTableViewController.plist0#
+
+CAnalyze /iPhoneExamples/MyExamples/GradientExample/Classes/GrayScaleViewController.m
+s327968878.629410
+e327968878.701902
+r1
+xAnalyze
+x/iPhoneExamples/MyExamples/GradientExample/Classes/GrayScaleViewController.m
+lSLF07#2@84"Analyze /iPhoneExamples/MyExamples/GradientExample/Classes/GrayScaleViewController.m327968878#327968878#0(0"0(0#0#76"/iPhoneExamples/MyExamples/GradientExample/Classes/GrayScaleViewController.m8618061088#2235"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-glbjrtxxtzcrdggfrvhrtskrende/GradientExample_Prefix.pch --analyze /iPhoneExamples/MyExamples/GradientExample/Classes/GrayScaleViewController.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/GrayScaleViewController.plist0#
+
+CAnalyze /iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientView.m
+s327968878.483246
+e327968878.550114
+r1
+xAnalyze
+x/iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientView.m
+lSLF07#2@79"Analyze /iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientView.m327968878#327968878#0(0"0(0#0#71"/iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientView.m8617862624#2225"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-glbjrtxxtzcrdggfrvhrtskrende/GradientExample_Prefix.pch --analyze /iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientView.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/LinearGradientView.plist0#
+
+CAnalyze /iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientViewController.m
+s327968878.403530
+e327968878.485008
+r1
+xAnalyze
+x/iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientViewController.m
+lSLF07#2@89"Analyze /iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientViewController.m327968878#327968878#0(0"0(0#0#81"/iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientViewController.m8621665344#2245"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-glbjrtxxtzcrdggfrvhrtskrende/GradientExample_Prefix.pch --analyze /iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientViewController.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/LinearGradientViewController.plist0#
+
+CAnalyze /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientFullViewController.m
+s327968878.598306
+e327968878.683973
+r1
+xAnalyze
+x/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientFullViewController.m
+lSLF07#2@93"Analyze /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientFullViewController.m327968878#327968878#0(0"0(0#0#85"/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientFullViewController.m8618577344#2253"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-glbjrtxxtzcrdggfrvhrtskrende/GradientExample_Prefix.pch --analyze /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientFullViewController.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/RadialGradientFullViewController.plist0#
+
+CAnalyze /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientView.m
+s327968878.550452
+e327968878.629239
+r1
+xAnalyze
+x/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientView.m
+lSLF07#2@79"Analyze /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientView.m327968878#327968878#0(0"0(0#0#71"/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientView.m8621489248#2225"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-glbjrtxxtzcrdggfrvhrtskrende/GradientExample_Prefix.pch --analyze /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientView.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/RadialGradientView.plist0#
+
+CAnalyze /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientViewController.m
+s327968878.485103
+e327968878.598192
+r1
+xAnalyze
+x/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientViewController.m
+lSLF07#2@89"Analyze /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientViewController.m327968878#327968878#0(0"0(0#0#81"/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientViewController.m8617748288#2245"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-glbjrtxxtzcrdggfrvhrtskrende/GradientExample_Prefix.pch --analyze /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientViewController.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/RadialGradientViewController.plist0#
+
+CAnalyze /iPhoneExamples/MyExamples/GradientExample/Classes/RoundedRectView.m
+s327717820.131089
+e327717820.218003
+r1
+xAnalyze
+x/iPhoneExamples/MyExamples/GradientExample/Classes/RoundedRectView.m
+lSLF07#2@76"Analyze /iPhoneExamples/MyExamples/GradientExample/Classes/RoundedRectView.m327717820#327717820#0(0"0(0#0#68"/iPhoneExamples/MyExamples/GradientExample/Classes/RoundedRectView.m8681911904#2219"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-glbjrtxxtzcrdggfrvhrtskrende/GradientExample_Prefix.pch --analyze /iPhoneExamples/MyExamples/GradientExample/Classes/RoundedRectView.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/RoundedRectView.plist0#
+
+CAnalyze /iPhoneExamples/MyExamples/GradientExample/main.m
+s327968878.223076
+e327968878.309739
+r1
+xAnalyze
+x/iPhoneExamples/MyExamples/GradientExample/main.m
+lSLF07#2@57"Analyze /iPhoneExamples/MyExamples/GradientExample/main.m327968878#327968878#0(0"0(0#0#49"/iPhoneExamples/MyExamples/GradientExample/main.m8618933408#2189"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-glbjrtxxtzcrdggfrvhrtskrende/GradientExample_Prefix.pch --analyze /iPhoneExamples/MyExamples/GradientExample/main.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328124417#328124417#0(0"0(0#1#0"8631525024#0"0#
+
+CCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientExampleAppDelegate.o /iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327968877.608226
+e327968877.773814
+r1
+xCompileC
+xbuild/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientExampleAppDelegate.o
+x/iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleAppDelegate.m327968877#327968877#0(0"0(0#0#79"/iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleAppDelegate.m8610532832#2232"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch -c /iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleAppDelegate.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientExampleAppDelegate.o0#
+
+CCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientExampleViewController.o /iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327706396.418057
+e327706396.507637
+r1
+xCompileC
+xbuild/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientExampleViewController.o
+x/iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleViewController.m327706396#327706396#0(0"0(0#0#82"/iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleViewController.m8656493184#2238"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch -c /iPhoneExamples/MyExamples/GradientExample/Classes/GradientExampleViewController.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientExampleViewController.o0#
+
+CCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientTypesTableViewController.o /iPhoneExamples/MyExamples/GradientExample/Classes/GradientTypesTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328124409.827545
+e328124410.722435
+r1
+xCompileC
+xbuild/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientTypesTableViewController.o
+x/iPhoneExamples/MyExamples/GradientExample/Classes/GradientTypesTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /iPhoneExamples/MyExamples/GradientExample/Classes/GradientTypesTableViewController.m328124409#328124410#0(0"0(0#0#85"/iPhoneExamples/MyExamples/GradientExample/Classes/GradientTypesTableViewController.m8617193696#2244"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch -c /iPhoneExamples/MyExamples/GradientExample/Classes/GradientTypesTableViewController.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientTypesTableViewController.o0#
+
+CCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GrayScaleViewController.o /iPhoneExamples/MyExamples/GradientExample/Classes/GrayScaleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328124410.125846
+e328124411.133746
+r1
+xCompileC
+xbuild/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GrayScaleViewController.o
+x/iPhoneExamples/MyExamples/GradientExample/Classes/GrayScaleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /iPhoneExamples/MyExamples/GradientExample/Classes/GrayScaleViewController.m328124410#328124411#0(0"0(0#0#76"/iPhoneExamples/MyExamples/GradientExample/Classes/GrayScaleViewController.m8623019456#2226"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch -c /iPhoneExamples/MyExamples/GradientExample/Classes/GrayScaleViewController.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GrayScaleViewController.o0#
+
+CCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/LinearGradientView.o /iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328092133.403009
+e328092133.576500
+r1
+xCompileC
+xbuild/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/LinearGradientView.o
+x/iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientView.m328092133#328092133#0(0"0(0#0#71"/iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientView.m7881713062576546816#2216"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch -c /iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientView.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/LinearGradientView.o0#
+
+CCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/LinearGradientViewController.o /iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327968877.773942
+e327968877.916304
+r1
+xCompileC
+xbuild/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/LinearGradientViewController.o
+x/iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientViewController.m327968877#327968877#0(0"0(0#0#81"/iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientViewController.m8619007904#2236"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch -c /iPhoneExamples/MyExamples/GradientExample/Classes/LinearGradientViewController.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/LinearGradientViewController.o0#
+
+CCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RadialGradientFullViewController.o /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientFullViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327968878.105142
+e327968878.222963
+r1
+xCompileC
+xbuild/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RadialGradientFullViewController.o
+x/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientFullViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientFullViewController.m327968878#327968878#0(0"0(0#0#85"/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientFullViewController.m8618679328#2244"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch -c /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientFullViewController.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RadialGradientFullViewController.o0#
+
+CCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RadialGradientView.o /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327968878.002887
+e327968878.105017
+r1
+xCompileC
+xbuild/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RadialGradientView.o
+x/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientView.m327968878#327968878#0(0"0(0#0#71"/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientView.m8618647808#2216"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch -c /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientView.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RadialGradientView.o0#
+
+CCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RadialGradientViewController.o /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327968877.916433
+e327968878.113385
+r1
+xCompileC
+xbuild/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RadialGradientViewController.o
+x/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientViewController.m327968877#327968878#0(0"0(0#0#81"/iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientViewController.m8608948448#2236"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch -c /iPhoneExamples/MyExamples/GradientExample/Classes/RadialGradientViewController.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RadialGradientViewController.o0#
+
+CCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RoundedRectView.o /iPhoneExamples/MyExamples/GradientExample/Classes/RoundedRectView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327752092.413252
+e327752092.573131
+r1
+xCompileC
+xbuild/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RoundedRectView.o
+x/iPhoneExamples/MyExamples/GradientExample/Classes/RoundedRectView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /iPhoneExamples/MyExamples/GradientExample/Classes/RoundedRectView.m327752092#327752092#0(0"0(0#0#68"/iPhoneExamples/MyExamples/GradientExample/Classes/RoundedRectView.m3419188058521428480#2210"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch -c /iPhoneExamples/MyExamples/GradientExample/Classes/RoundedRectView.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/RoundedRectView.o0#
+
+CCompileC build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/main.o /iPhoneExamples/MyExamples/GradientExample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327968877.566515
+e327968877.693998
+r1
+xCompileC
+xbuild/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/main.o
+x/iPhoneExamples/MyExamples/GradientExample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /iPhoneExamples/MyExamples/GradientExample/main.m327968877#327968877#0(0"0(0#0#49"/iPhoneExamples/MyExamples/GradientExample/main.m8617879168#2180"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -include /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch -c /iPhoneExamples/MyExamples/GradientExample/main.m -o /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /iPhoneExamples/MyExamples/GradientExample/GradientExampleViewController.xib
+s327717815.722721
+e327717818.269080
+r1
+xCompileXIB
+x/iPhoneExamples/MyExamples/GradientExample/GradientExampleViewController.xib
+lSLF07#2@44"CompileXIB GradientExampleViewController.xib327717815#327717818#0(0"0(0#0#76"/iPhoneExamples/MyExamples/GradientExample/GradientExampleViewController.xib8688272768#690"    cd /iPhoneExamples/MyExamples/GradientExample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/GradientExampleViewController.nib /iPhoneExamples/MyExamples/GradientExample/GradientExampleViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /iPhoneExamples/MyExamples/GradientExample/MainWindow.xib
+s327968868.577185
+e327968873.878734
+r1
+xCompileXIB
+x/iPhoneExamples/MyExamples/GradientExample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib327968868#327968873#0(0"0(0#0#57"/iPhoneExamples/MyExamples/GradientExample/MainWindow.xib8622640736#652"    cd /iPhoneExamples/MyExamples/GradientExample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/MainWindow.nib /iPhoneExamples/MyExamples/GradientExample/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/GradientExample.app/bus.png bus.png
+s327968868.578126
+e327968868.721100
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GradientExample.app/bus.png
+xbus.png
+lSLF07#2@12"Copy bus.png327968868#327968868#0(0"0(0#0#50"/iPhoneExamples/MyExamples/GradientExample/bus.png8622198720#547"    cd /iPhoneExamples/MyExamples/GradientExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /iPhoneExamples/MyExamples/GradientExample/bus.png /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app0#
+
+CGenerateDSYMFile /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app.dSYM /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/GradientExample
+s328124411.789656
+e328124412.174720
+r1
+xGenerateDSYMFile
+x/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app.dSYM
+x/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/GradientExample
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/GradientExample.app.dSYM build/Debug-iphonesimulator/GradientExample.app/GradientExample328124411#328124412#0(0"0(0#0#106"/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/GradientExample8617126176#481"    cd /iPhoneExamples/MyExamples/GradientExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/GradientExample -o /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app.dSYM0#
+
+CLd /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/GradientExample normal i386
+s328124411.133864
+e328124411.789379
+r1
+xLd
+x/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/GradientExample
+xnormal
+xi386
+lSLF07#2@111"Link /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/GradientExample328124411#328124411#0(0"0(0#0#0"8615641216#1022"    cd /iPhoneExamples/MyExamples/GradientExample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -filelist /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/Objects-normal/i386/GradientExample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/GradientExample0#
+
+CProcessInfoPlistFile /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/Info.plist GradientExample-Info.plist
+s327968868.548171
+e327968868.577056
+r1
+xProcessInfoPlistFile
+x/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/Info.plist
+xGradientExample-Info.plist
+lSLF07#2@34"Process GradientExample-Info.plist327968868#327968868#0(0"0(0#0#69"/iPhoneExamples/MyExamples/GradientExample/GradientExample-Info.plist8622654496#577"    cd /iPhoneExamples/MyExamples/GradientExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility GradientExample-Info.plist -genpkginfo /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app/Info.plist0#
+
+CProcessPCH /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch.gch GradientExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327968873.878929
+e327968877.566309
+r1
+xProcessPCH
+x/var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch.gch
+xGradientExample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile GradientExample_Prefix.pch327968873#327968877#0(0"0(0#0#69"/iPhoneExamples/MyExamples/GradientExample/GradientExample_Prefix.pch8616806240#2060"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -c /iPhoneExamples/MyExamples/GradientExample/GradientExample_Prefix.pch -o /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-fcttdwmpescvdvaycnmpyazhwkvr/GradientExample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-glbjrtxxtzcrdggfrvhrtskrende/GradientExample_Prefix.pch.pth GradientExample_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s327717803.460646
+e327717804.265555
+r1
+xProcessPCH
+x/var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-glbjrtxxtzcrdggfrvhrtskrende/GradientExample_Prefix.pch.pth
+xGradientExample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@37"Precompile GradientExample_Prefix.pch327717803#327717804#0(0"0(0#0#69"/iPhoneExamples/MyExamples/GradientExample/GradientExample_Prefix.pch8680582816#2051"    cd /iPhoneExamples/MyExamples/GradientExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-generated-files.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-own-target-headers.hmap -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-all-target-headers.hmap -iquote /iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/GradientExample-project-headers.hmap -F/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator -I/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/include -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources/i386 -I/iPhoneExamples/MyExamples/GradientExample/build/GradientExample.build/Debug-iphonesimulator/GradientExample.build/DerivedSources -c /iPhoneExamples/MyExamples/GradientExample/GradientExample_Prefix.pch -o /var/folders/Lb/LbaCkbY-EiG2Rzxgth1PMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GradientExample_Prefix-glbjrtxxtzcrdggfrvhrtskrende/GradientExample_Prefix.pch.pth0#
+
+CTouch /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app
+s328124412.174832
+e328124412.243116
+r1
+xTouch
+x/iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app
+lSLF07#2@96"Touch /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app328124412#328124412#0(0"0(0#0#0"8630357504#356"    cd /iPhoneExamples/MyExamples/GradientExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /iPhoneExamples/MyExamples/GradientExample/build/Debug-iphonesimulator/GradientExample.app0#
+

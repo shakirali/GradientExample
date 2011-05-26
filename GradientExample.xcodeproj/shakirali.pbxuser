@@ -1,0 +1,591 @@
+// !$*UTF8*$!
+{
+	0571B281138AE6DD003F79AC /* GrayScaleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 562}}";
+			sepNavSelRange = "{248, 0}";
+			sepNavVisRange = "{0, 257}";
+		};
+	};
+	0571B282138AE6DD003F79AC /* GrayScaleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1180, 1501}}";
+			sepNavSelRange = "{968, 0}";
+			sepNavVisRange = "{529, 1265}";
+		};
+	};
+	0571B2DA138B0F31003F79AC /* CGImage.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGImage.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h;
+		sourceTree = "<absolute>";
+	};
+	0571B2EA138B0FBB003F79AC /* GradientTypesTableViewController.m:80 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 057447F21388665E00415B51 /* GradientTypesTableViewController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 80;
+		location = GradientExample;
+		modificationTime = 327882107.084084;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	0571B308138B1051003F79AC /* GrayScaleViewController.m:24 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0571B282138AE6DD003F79AC /* GrayScaleViewController.m */;
+		functionName = "createGrayScaleImage()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 24;
+		location = GradientExample;
+		modificationTime = 327882108.845058;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	0571B38B138B15DA003F79AC /* bus.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 4}, {1255, 771}}";
+		};
+	};
+	0571B3AB138B16C8003F79AC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0571B38B138B15DA003F79AC /* bus.png */;
+	};
+	0571B3AC138B16C8003F79AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GradientExampleAppDelegate.h */;
+		name = "GradientExampleAppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 491;
+		rType = 0;
+		vrLen = 498;
+		vrLoc = 0;
+	};
+	0571B3AD138B16C8003F79AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GradientExampleAppDelegate.m */;
+		name = "GradientExampleAppDelegate.m: 88";
+		rLen = 0;
+		rLoc = 2930;
+		rType = 0;
+		vrLen = 552;
+		vrLoc = 2383;
+	};
+	0571B3AE138B16C8003F79AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 057447F11388665E00415B51 /* GradientTypesTableViewController.h */;
+		name = "GradientTypesTableViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 280;
+		vrLoc = 0;
+	};
+	0571B3AF138B16C8003F79AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 057447F21388665E00415B51 /* GradientTypesTableViewController.m */;
+		name = "GradientTypesTableViewController.m: 62";
+		rLen = 0;
+		rLoc = 2072;
+		rType = 0;
+		vrLen = 1252;
+		vrLoc = 2444;
+	};
+	0571B3B0138B16C8003F79AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0574482C138868F000415B51 /* LinearGradientViewController.h */;
+		name = "LinearGradientViewController.h: 13";
+		rLen = 0;
+		rLoc = 258;
+		rType = 0;
+		vrLen = 267;
+		vrLoc = 0;
+	};
+	057253A0138DC34B00E59827 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0574484D1388702A00415B51 /* CGContext.h */;
+		name = "CGContext.h: 719";
+		rLen = 65;
+		rLoc = 28517;
+		rType = 0;
+		vrLen = 1704;
+		vrLoc = 27961;
+	};
+	057253A8138DC34B00E59827 /* CGGradient.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGradient.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGradient.h;
+		sourceTree = "<absolute>";
+	};
+	0573E867138E49E800B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 057253A8138DC34B00E59827 /* CGGradient.h */;
+		name = "CGGradient.h: 14";
+		rLen = 0;
+		rLoc = 290;
+		rType = 0;
+		vrLen = 1696;
+		vrLoc = 2057;
+	};
+	0573E868138E49E800B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 057468B2138940A300639340 /* RadialGradientFullViewController.m */;
+		name = "RadialGradientFullViewController.m: 24";
+		rLen = 6;
+		rLoc = 681;
+		rType = 0;
+		vrLen = 722;
+		vrLoc = 519;
+	};
+	0573E869138E49E800B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 057468B1138940A300639340 /* RadialGradientFullViewController.h */;
+		name = "RadialGradientFullViewController.h: 12";
+		rLen = 0;
+		rLoc = 223;
+		rType = 0;
+		vrLen = 275;
+		vrLoc = 0;
+	};
+	0573E86A138E49E800B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0574482D138868F000415B51 /* LinearGradientViewController.m */;
+		name = "LinearGradientViewController.m: 60";
+		rLen = 0;
+		rLoc = 1617;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 1067;
+	};
+	0573E86B138E49E800B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0574482F138869AC00415B51 /* LinearGradientView.h */;
+		name = "LinearGradientView.h: 7";
+		rLen = 1;
+		rLoc = 156;
+		rType = 0;
+		vrLen = 350;
+		vrLoc = 0;
+	};
+	0573E86C138E49E800B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05744830138869AC00415B51 /* LinearGradientView.m */;
+		name = "LinearGradientView.m: 87";
+		rLen = 35;
+		rLoc = 3078;
+		rType = 0;
+		vrLen = 952;
+		vrLoc = 2408;
+	};
+	0573E86D138E49E800B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 057467741389186500639340 /* RadialGradientViewController.h */;
+		name = "RadialGradientViewController.h: 13";
+		rLen = 0;
+		rLoc = 284;
+		rType = 0;
+		vrLen = 292;
+		vrLoc = 0;
+	};
+	0573E86E138E49E800B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 057467751389186500639340 /* RadialGradientViewController.m */;
+		name = "RadialGradientViewController.m: 52";
+		rLen = 303;
+		rLoc = 1608;
+		rType = 0;
+		vrLen = 974;
+		vrLoc = 247;
+	};
+	0573E86F138E49E800B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 057467CF1389287700639340 /* RadialGradientView.h */;
+		name = "RadialGradientView.h: 14";
+		rLen = 24;
+		rLoc = 239;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	0573E870138E49E800B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 057467D01389287700639340 /* RadialGradientView.m */;
+		name = "RadialGradientView.m: 52";
+		rLen = 7;
+		rLoc = 1700;
+		rType = 0;
+		vrLen = 1189;
+		vrLoc = 554;
+	};
+	0573E871138E49E800B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0571B281138AE6DD003F79AC /* GrayScaleViewController.h */;
+		name = "GrayScaleViewController.h: 13";
+		rLen = 0;
+		rLoc = 248;
+		rType = 0;
+		vrLen = 257;
+		vrLoc = 0;
+	};
+	0573E885138E4A3100B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0571B282138AE6DD003F79AC /* GrayScaleViewController.m */;
+		name = "GrayScaleViewController.m: 28";
+		rLen = 0;
+		rLoc = 877;
+		rType = 0;
+		vrLen = 1371;
+		vrLoc = 529;
+	};
+	0573E88B138E4A6400B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0571B2DA138B0F31003F79AC /* CGImage.h */;
+		name = "CGImage.h: 22";
+		rLen = 74;
+		rLoc = 805;
+		rType = 0;
+		vrLen = 1056;
+		vrLoc = 0;
+	};
+	0573E88E138E51A100B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0571B282138AE6DD003F79AC /* GrayScaleViewController.m */;
+		name = "GrayScaleViewController.m: 28";
+		rLen = 0;
+		rLoc = 877;
+		rType = 0;
+		vrLen = 1265;
+		vrLoc = 529;
+	};
+	0573E8A6138EC80400B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0571B282138AE6DD003F79AC /* GrayScaleViewController.m */;
+		name = "GrayScaleViewController.m: 30";
+		rLen = 0;
+		rLoc = 968;
+		rType = 0;
+		vrLen = 1265;
+		vrLoc = 529;
+	};
+	0573E8A7138EC80400B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 057447F21388665E00415B51 /* GradientTypesTableViewController.m */;
+		name = "GradientTypesTableViewController.m: 62";
+		rLen = 0;
+		rLoc = 2072;
+		rType = 0;
+		vrLen = 1247;
+		vrLoc = 2444;
+	};
+	0573E8A8138EC80400B11A38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 057447F21388665E00415B51 /* GradientTypesTableViewController.m */;
+		name = "GradientTypesTableViewController.m: 25";
+		rLen = 0;
+		rLoc = 724;
+		rType = 0;
+		vrLen = 799;
+		vrLoc = 475;
+	};
+	057447DD138865E500415B51 /* GradientExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GradientExample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	057447E11388660400415B51 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	057447E21388660400415B51 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	057447F11388665E00415B51 /* GradientTypesTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 570}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 280}";
+		};
+	};
+	057447F21388665E00415B51 /* GradientTypesTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 2641}}";
+			sepNavSelRange = "{724, 0}";
+			sepNavVisRange = "{475, 799}";
+			sepNavWindowFrame = "{{15, 4}, {1255, 771}}";
+		};
+	};
+	0574482C138868F000415B51 /* LinearGradientViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 570}}";
+			sepNavSelRange = "{258, 0}";
+			sepNavVisRange = "{0, 267}";
+		};
+	};
+	0574482D138868F000415B51 /* LinearGradientViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 1311}}";
+			sepNavSelRange = "{1617, 0}";
+			sepNavVisRange = "{1067, 599}";
+		};
+	};
+	0574482F138869AC00415B51 /* LinearGradientView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 562}}";
+			sepNavSelRange = "{156, 1}";
+			sepNavVisRange = "{0, 350}";
+		};
+	};
+	05744830138869AC00415B51 /* LinearGradientView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 1900}}";
+			sepNavSelRange = "{3078, 35}";
+			sepNavVisRange = "{2408, 952}";
+		};
+	};
+	0574484D1388702A00415B51 /* CGContext.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGContext.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h;
+		sourceTree = "<absolute>";
+	};
+	0574487C138871C900415B51 /* GradientTypesTableViewController.m:85 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 057447F21388665E00415B51 /* GradientTypesTableViewController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 85;
+		location = GradientExample;
+		modificationTime = 327882109.9095042;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	0574488E1388722600415B51 /* LinearGradientViewController.m:23 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 0574482D138868F000415B51 /* LinearGradientViewController.m */;
+		functionName = "-loadView";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 23;
+		location = GradientExample;
+		modificationTime = 327882104.148579;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	057467741389186500639340 /* RadialGradientViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 562}}";
+			sepNavSelRange = "{284, 0}";
+			sepNavVisRange = "{0, 292}";
+		};
+	};
+	057467751389186500639340 /* RadialGradientViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1212, 1368}}";
+			sepNavSelRange = "{1608, 303}";
+			sepNavVisRange = "{247, 974}";
+		};
+	};
+	057467CF1389287700639340 /* RadialGradientView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 562}}";
+			sepNavSelRange = "{239, 24}";
+			sepNavVisRange = "{0, 369}";
+		};
+	};
+	057467D01389287700639340 /* RadialGradientView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 1197}}";
+			sepNavSelRange = "{1700, 7}";
+			sepNavVisRange = "{554, 1189}";
+		};
+	};
+	05746876138937DA00639340 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05746877138937DA00639340 /* stdint.h */;
+		name = "stdint.h: 50";
+		rLen = 39;
+		rLoc = 890;
+		rType = 0;
+		vrLen = 453;
+		vrLoc = 599;
+	};
+	05746877138937DA00639340 /* stdint.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stdint.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/gcc/darwin/4.2/stdint.h;
+		sourceTree = "<absolute>";
+	};
+	057468B1138940A300639340 /* RadialGradientFullViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 562}}";
+			sepNavSelRange = "{223, 0}";
+			sepNavVisRange = "{0, 275}";
+		};
+	};
+	057468B2138940A300639340 /* RadialGradientFullViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1188, 912}}";
+			sepNavSelRange = "{681, 6}";
+			sepNavVisRange = "{519, 722}";
+		};
+	};
+	1D3623240D0F684500981E51 /* GradientExampleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 570}}";
+			sepNavSelRange = "{491, 0}";
+			sepNavVisRange = "{0, 498}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GradientExampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1691}}";
+			sepNavSelRange = "{2930, 0}";
+			sepNavVisRange = "{2383, 552}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GradientExample */ = {
+		activeExec = 0;
+		executables = (
+			057447DD138865E500415B51 /* GradientExample */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 057447DD138865E500415B51 /* GradientExample */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GradientExample */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GradientExample */,
+		);
+		breakpoints = (
+			0574487C138871C900415B51 /* GradientTypesTableViewController.m:85 */,
+			0574488E1388722600415B51 /* LinearGradientViewController.m:23 */,
+			0571B2EA138B0FBB003F79AC /* GradientTypesTableViewController.m:80 */,
+			0571B308138B1051003F79AC /* GrayScaleViewController.m:24 */,
+		);
+		codeSenseManager = 057447E21388660400415B51 /* Code sense */;
+		executables = (
+			057447DD138865E500415B51 /* GradientExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					794,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 328124306;
+			PBXWorkspaceStateSaveDate = 328124306;
+		};
+		perUserProjectItems = {
+			0571B3AB138B16C8003F79AC = 0571B3AB138B16C8003F79AC /* PBXBookmark */;
+			0571B3AC138B16C8003F79AC = 0571B3AC138B16C8003F79AC /* PBXTextBookmark */;
+			0571B3AD138B16C8003F79AC = 0571B3AD138B16C8003F79AC /* PBXTextBookmark */;
+			0571B3AE138B16C8003F79AC = 0571B3AE138B16C8003F79AC /* PBXTextBookmark */;
+			0571B3AF138B16C8003F79AC = 0571B3AF138B16C8003F79AC /* PBXTextBookmark */;
+			0571B3B0138B16C8003F79AC = 0571B3B0138B16C8003F79AC /* PBXTextBookmark */;
+			057253A0138DC34B00E59827 = 057253A0138DC34B00E59827 /* PBXTextBookmark */;
+			0573E867138E49E800B11A38 = 0573E867138E49E800B11A38 /* PBXTextBookmark */;
+			0573E868138E49E800B11A38 = 0573E868138E49E800B11A38 /* PBXTextBookmark */;
+			0573E869138E49E800B11A38 = 0573E869138E49E800B11A38 /* PBXTextBookmark */;
+			0573E86A138E49E800B11A38 = 0573E86A138E49E800B11A38 /* PBXTextBookmark */;
+			0573E86B138E49E800B11A38 = 0573E86B138E49E800B11A38 /* PBXTextBookmark */;
+			0573E86C138E49E800B11A38 = 0573E86C138E49E800B11A38 /* PBXTextBookmark */;
+			0573E86D138E49E800B11A38 = 0573E86D138E49E800B11A38 /* PBXTextBookmark */;
+			0573E86E138E49E800B11A38 = 0573E86E138E49E800B11A38 /* PBXTextBookmark */;
+			0573E86F138E49E800B11A38 = 0573E86F138E49E800B11A38 /* PBXTextBookmark */;
+			0573E870138E49E800B11A38 = 0573E870138E49E800B11A38 /* PBXTextBookmark */;
+			0573E871138E49E800B11A38 = 0573E871138E49E800B11A38 /* PBXTextBookmark */;
+			0573E885138E4A3100B11A38 = 0573E885138E4A3100B11A38 /* PBXTextBookmark */;
+			0573E88B138E4A6400B11A38 = 0573E88B138E4A6400B11A38 /* PBXTextBookmark */;
+			0573E88E138E51A100B11A38 = 0573E88E138E51A100B11A38 /* PBXTextBookmark */;
+			0573E8A6138EC80400B11A38 /* PBXTextBookmark */ = 0573E8A6138EC80400B11A38 /* PBXTextBookmark */;
+			0573E8A7138EC80400B11A38 /* PBXTextBookmark */ = 0573E8A7138EC80400B11A38 /* PBXTextBookmark */;
+			0573E8A8138EC80400B11A38 /* PBXTextBookmark */ = 0573E8A8138EC80400B11A38 /* PBXTextBookmark */;
+			05746876138937DA00639340 = 05746876138937DA00639340 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 057447E11388660400415B51 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
